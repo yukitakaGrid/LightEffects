@@ -1,0 +1,2 @@
+# LightEffects
+LEDCUBEのアニメーションを作成できるUnity製GUIツール
