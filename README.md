@@ -1,6 +1,6 @@
 # LightEffects
 LEDCUBEのアニメーションを作成できるUnity製GUIツール  
-BOOTH : https://booth.pm/ja/items/4796978
+BOOTH & Reference : https://booth.pm/ja/items/4796978
 
 # Version
 
