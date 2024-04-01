@@ -7,7 +7,7 @@ BOOTH & Reference : https://booth.pm/ja/items/4796978
 LEDでアニメーションパターンを発行するハードウェア
 電気回路設計を一部手伝う
 
-
+<img src="./LEDCUBE.png" width="600" height="300">
 
 # Version
 
